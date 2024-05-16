@@ -7,8 +7,10 @@ I am an Backend developer and researcher at one of the most prestigious universi
 ### Github stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vinicius-O-Ferraz&theme=light" width="500" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-O-Ferraz&theme=light" width="500" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-O-Ferraz&show_icons=true&theme=light" width="500" height="200" />
 </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-O-Ferraz&theme=light" width="500" height="200" />
+
 
 ### Badges
 <p align="center">
