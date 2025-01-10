@@ -17,7 +17,6 @@ I have a New Year's resolution to commit to my learning journey, so you can expe
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="150" height="40" alt="MongoDB" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="150" height="40" alt="Java" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="150" height="40" alt="Git" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="150" height="40" alt="GitHub" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="150" height="40" alt="MySQL" style="margin: 10px;" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="150" height="40" alt="MongoDB" style="margin: 10px;" />
 </p>
