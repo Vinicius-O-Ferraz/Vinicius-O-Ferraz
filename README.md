@@ -6,10 +6,8 @@ I am an aspiring Web Backend developer and researcher at one of the most prestig
 
 I have a New Year's resolution to commit to my learning journey, so you can expect to see a lot of new and interesting stuff around here.
 
-### Github stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vinicius-O-Ferraz&theme=light" width="500" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-O-Ferraz&theme=light" width="300" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-O-Ferraz&size_weight=0.5&count_weight=0.5">
 </p>
 
 ### Badges
